@@ -1,0 +1,16 @@
+{
+	"name": "taisan11-dev",
+	"assets": {
+		"directory": "./dist",
+		"not_found_handling": "404-page"
+	},
+	"observability": {
+		"enabled": true
+	},
+	"routes": [
+		{
+			"pattern": "xr.taisan11.f5.si",
+			"custom_domain": true
+		}
+	]
+}

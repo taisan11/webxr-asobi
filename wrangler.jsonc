@@ -1,5 +1,6 @@
 {
-	"name": "taisan11-dev",
+	"name": "webxr-asobi",
+    "compatibility_date":"2026-02-06",
 	"assets": {
 		"directory": "./dist",
 		"not_found_handling": "404-page"
